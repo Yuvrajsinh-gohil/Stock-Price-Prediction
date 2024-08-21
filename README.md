@@ -31,4 +31,5 @@
 - **Visualization**:
   ![Model Performance](https://github.com/Yuvrajsinh-gohil/Stock-Price-Prediction/blob/main/Screenshot%202024-08-21%20000257.png) 
 
-- **Repository Link**: [Predicting Stock Prices](#) (Add your repository link here)
+- **Repository Link**: [- **Repository Link**: [Predicting Stock Prices](https://github.com/Yuvrajsinh-gohil/Stock-Price-Prediction)
+](#) 
