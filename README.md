@@ -26,9 +26,9 @@
      - Evaluated the model's performance on the test dataset using RMSE (Root Mean Square Error).
      - Visualized the model's predictions against the actual closing prices.
 
-- **Outcome**: The model achieved a Root Mean Square Error (RMSE) of `X` (replace with your result), indicating its accuracy in predicting stock prices. The predictions closely followed the actual closing prices, demonstrating the model's effectiveness in financial forecasting.
+- **Outcome**: The model achieved a Root Mean Square Error (RMSE) of `3.1453196224674507` , indicating its accuracy in predicting stock prices. The predictions closely followed the actual closing prices, demonstrating the model's effectiveness in financial forecasting.
 
 - **Visualization**:
-  ![Model Performance](.png) 
+  ![Model Performance](https://github.com/Yuvrajsinh-gohil/Stock-Price-Prediction/blob/main/Screenshot%202024-08-21%20000257.png) 
 
 - **Repository Link**: [Predicting Stock Prices](#) (Add your repository link here)
