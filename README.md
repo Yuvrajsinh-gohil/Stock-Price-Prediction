@@ -1,4 +1,4 @@
-### 🚀 Key Projects
+### 🚀 Key Project
 
 #### **Predicting Stock Prices Using 60 Days of Closing Prices**
 - **Description**: Developed a machine learning model to predict stock prices based on the last 60 days' closing prices. The project utilizes historical data to forecast future prices, aiding investors in making informed decisions.
